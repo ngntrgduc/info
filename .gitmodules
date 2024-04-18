@@ -1,0 +1,3 @@
+[submodule "get-info-github"]
+	path = get-info-github
+	url = https://github.com/ngntrgduc/get-info-github.git
