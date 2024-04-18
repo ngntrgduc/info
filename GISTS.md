@@ -1,5 +1,5 @@
 ### My gists
-| **Gist name** | **Description** |
+| **Gist** | **Description** |
 | ------------- | --------------- |
 | **[obsidian-catppuccin.css](https://gist.github.com/ngntrgduc/8a45d8d2a83e605451557ee3c3189d6f)** | Some customization color for Obsidian, based on Catppuccin Mocha theme. |
 | **[marginize.js](https://gist.github.com/ngntrgduc/36205a613108d6cd2927be6cedca0b92)** | Bookmarklet add margin for the web |

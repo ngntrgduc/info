@@ -17,7 +17,7 @@
 | **[mitmath/julia-mit](https://github.com/mitmath/julia-mit)** \| ⭐ *713* | Tutorials and information on the Julia language for MIT numerical-computation courses.
 | **[mlco2/impact](https://github.com/mlco2/impact)** \| ⭐ *176* | ML has an impact on the climate. But not all models are born equal. Compute your model's emissions with our calculator and add the results to your paper with our generated latex template
 | **[ngnquanq/NLP_Final](https://github.com/ngnquanq/NLP_Final)** \| ⭐ *2* | NLP 
-| **[ollama/ollama](https://github.com/ollama/ollama)** \| ⭐ *55.7K* | Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+| **[ollama/ollama](https://github.com/ollama/ollama)** \| ⭐ *55.8K* | Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 | **[oxalorg/sakura](https://github.com/oxalorg/sakura)** \| ⭐ *4.0K* | :cherry_blossom: a minimal css framework/theme.
 | **[unlearning-challenge/starting-kit](https://github.com/unlearning-challenge/starting-kit)** \| ⭐ *375* | Starting kit for the NeurIPS 2023 unlearning challenge
 | **[dcetin/eth-cs-notes](https://github.com/dcetin/eth-cs-notes)** \| ⭐ *582* | Lecture notes and cheatsheets for Master's in Computer Science at ETH Zurich

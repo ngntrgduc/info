@@ -1,5 +1,6 @@
 | **Repository** | **Description** |
 | -------------- | --------------- |
+| **[info](https://github.com/ngntrgduc/info)**  | All repos/starred/gists |
 | **[get-info-github](https://github.com/ngntrgduc/get-info-github)**  | Crawl repos/starred/gists of user on GitHub using GitHub REST API |
 | **[math.hcmus-crawler](https://github.com/ngntrgduc/math.hcmus-crawler)**  | Crawl tin tức từ trang web của khoa Toán - Tin học https://math.hcmus.edu.vn/ mỗi ngày |
 | **[HCMUS-news-crawler](https://github.com/ngntrgduc/HCMUS-news-crawler)**  | Crawl https://hcmus.edu.vn/tin-tuc/ and http://ktdbcl.hcmus.edu.vn every day using GitHub Actions. Fork/watch this repo to see news updates. View the latest commit of the README.md file for a quick update. |
