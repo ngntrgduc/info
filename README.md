@@ -1,13 +1,14 @@
 | **Repository** | **Description** |
 | -------------- | --------------- |
-| **[info](https://github.com/ngntrgduc/info)**  | All repos/starred/gists |
-| **[get-info-github](https://github.com/ngntrgduc/get-info-github)**  | Crawl repos/starred/gists of user on GitHub using GitHub REST API |
+| **[ngntrgduc](https://github.com/ngntrgduc/ngntrgduc)**  |  |
 | **[math.hcmus-crawler](https://github.com/ngntrgduc/math.hcmus-crawler)**  | Crawl tin tức từ trang web của khoa Toán - Tin học https://math.hcmus.edu.vn/ mỗi ngày |
-| **[HCMUS-news-crawler](https://github.com/ngntrgduc/HCMUS-news-crawler)**  | Crawl https://hcmus.edu.vn/tin-tuc/ and http://ktdbcl.hcmus.edu.vn every day using GitHub Actions. Fork/watch this repo to see news updates. View the latest commit of the README.md file for a quick update. |
+| **[HCMUS-news-crawler](https://github.com/ngntrgduc/HCMUS-news-crawler)**  | Crawl tin tức từ https://hcmus.edu.vn/tin-tuc/ và http://ktdbcl.hcmus.edu.vn mỗi ngày |
+| **[pomodoro](https://github.com/ngntrgduc/pomodoro)**  | Aesthetic, Minimalist Pomodoro |
+| **[github-stats](https://github.com/ngntrgduc/github-stats)**  | My GitHub stats, a fork from https://github.com/jstrieb/github-stats, with some customization |
+| **[get-info-github](https://github.com/ngntrgduc/get-info-github)**  | Crawl repos/starred/gists of user on GitHub using GitHub REST API |
+| **[info](https://github.com/ngntrgduc/info)**  | All repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
 | **[thong-bao-cup-nuoc-Thu-Duc](https://github.com/ngntrgduc/thong-bao-cup-nuoc-Thu-Duc)**  | Script được chạy mỗi ngày để crawl thông báo cúp nước từ https://www.capnuocthuduc.vn/tin-tuc/thong-bao-cup-nuoc/, phòng khi mọi người không biết tới sự tồn tại của cái trang này 🙂 |
 | **[awesome-math](https://github.com/ngntrgduc/awesome-math)** (*fork*) | A curated list of awesome mathematics resources |
-| **[github-stats](https://github.com/ngntrgduc/github-stats)**  | My GitHub stats, a fork from https://github.com/jstrieb/github-stats, with some customization |
-| **[ngntrgduc](https://github.com/ngntrgduc/ngntrgduc)**  | My public profile |
 | **[my-HCMUS](https://github.com/ngntrgduc/my-HCMUS)**  | Coursework I completed during my studies at HCMUS (2021-2025), with some stuff. To be updated. |
 | **[musyc-player](https://github.com/ngntrgduc/musyc-player)**  | Minimal Music player, built with Python + Flask |
 | **[docs](https://github.com/ngntrgduc/docs)**  | Just my documentation |
@@ -19,7 +20,6 @@
 | **[learning-python](https://github.com/ngntrgduc/learning-python)**  | Just my repo to learn python with colab |
 | **[python-mini-projects](https://github.com/ngntrgduc/python-mini-projects)**  | Some mini projects written in Python |
 | **[Dictionary-Look-Up](https://github.com/ngntrgduc/Dictionary-Look-Up)**  | Extension to look up words painlessly |
-| **[pomodoro](https://github.com/ngntrgduc/pomodoro)**  | Aesthetic, Minimalist Pomodoro |
 | **[HCMUS-danh-gia-mon-hoc](https://github.com/ngntrgduc/HCMUS-danh-gia-mon-hoc)**  | Script giúp tự động đánh giá môn học trên Portal, giúp giảm gánh nặng cho đôi tay của bạn |
 | **[HCMUS-GPA-bookmarklet](https://github.com/ngntrgduc/HCMUS-GPA-bookmarklet)**  | Tính GPA trên Portal thông qua bookmarklet |
 | **[latex-template](https://github.com/ngntrgduc/latex-template)**  | My Latex template for homework |
