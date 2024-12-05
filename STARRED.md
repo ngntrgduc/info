@@ -7,7 +7,7 @@
 | **[anthonywritescode/explains](https://github.com/anthonywritescode/explains)** \| ⭐ *413* | more easily searchable list of explains playlist
 | **[ngnquanq/obsedian](https://github.com/ngnquanq/obsedian)** \| ⭐ *3* | Shout-out cho ngntrgduc vì đã khai sáng cho tôi về second brain, bởi vì tôi viết rất nhiều, và tốn rất nhiều tiền mua tập :)
 | **[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)** \| ⭐ *91.9K* | A feature-rich command-line audio/video downloader
-| **[astral-sh/uv](https://github.com/astral-sh/uv)** \| ⭐ *28.5K* | An extremely fast Python package and project manager, written in Rust.
+| **[astral-sh/uv](https://github.com/astral-sh/uv)** \| ⭐ *28.6K* | An extremely fast Python package and project manager, written in Rust.
 | **[mitmath/18330](https://github.com/mitmath/18330)** \| ⭐ *355* | 18.330 Introduction to Numerical Analysis
 | **[mitmath/18335](https://github.com/mitmath/18335)** \| ⭐ *504* | 18.335 - Introduction to Numerical Methods course
 | **[mlabonne/llm-course](https://github.com/mlabonne/llm-course)** \| ⭐ *39.7K* | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
