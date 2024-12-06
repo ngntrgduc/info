@@ -1,11 +1,12 @@
 | **Repository** | **Description** |
 | -------------- | --------------- |
-| **[cv](https://github.com/ngntrgduc/cv)**  | My CV, written in Latex |
+| **[instagram-downloader](https://github.com/ngntrgduc/instagram-downloader)**  | Instagram images downloader written in Python |
 | **[userscripts](https://github.com/ngntrgduc/userscripts)**  | Some personal userscripts, makes life simpler |
+| **[aoc2024](https://github.com/ngntrgduc/aoc2024)**  | My take on Advent of Code 2024 |
 | **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
+| **[cv](https://github.com/ngntrgduc/cv)**  | My CV, written in Latex |
 | **[bookmarklets](https://github.com/ngntrgduc/bookmarklets)**  | Just some bookmarklets I created |
 | **[awesome-math](https://github.com/ngntrgduc/awesome-math)** (*fork*) | A curated list of awesome mathematics resources |
-| **[aoc2024](https://github.com/ngntrgduc/aoc2024)**  | My take on Advent of Code 2024 |
 | **[ngntrgduc.github.io](https://github.com/ngntrgduc/ngntrgduc.github.io)**  | My space, crafted with Hugo |
 | **[get-shit-done](https://github.com/ngntrgduc/get-shit-done)**  | No more procrastination |
 | **[Dictionary-Look-Up](https://github.com/ngntrgduc/Dictionary-Look-Up)**  | Extension to look up words painlessly |
@@ -36,6 +37,7 @@
 | **[visualimiss](https://github.com/ngntrgduc/visualimiss)**  | Small Python package to visualize missing data |
 | **[toy-with-iris](https://github.com/ngntrgduc/toy-with-iris)**  | Implementation of some classification algorithms for iris dataset |
 | **[nvim-config](https://github.com/ngntrgduc/nvim-config)**  | My neovim config |
+| **[pynterest-downloader](https://github.com/ngntrgduc/pynterest-downloader)**  | Pinterest downloader written in Python |
 | **[markdown-calendar](https://github.com/ngntrgduc/markdown-calendar)**  | Generate calendars as markdown tables using Python |
 | **[Flood-It](https://github.com/ngntrgduc/Flood-It)**  | Flood It game written in Python |
 | **[codewars-unfollow](https://github.com/ngntrgduc/codewars-unfollow)**  | Unfollow all of your allies/following on Codewars |
