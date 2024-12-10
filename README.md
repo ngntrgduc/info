@@ -1,9 +1,10 @@
 | **Repository** | **Description** |
 | -------------- | --------------- |
-| **[instagram-downloader](https://github.com/ngntrgduc/instagram-downloader)**  | Instagram images downloader written in Python |
-| **[userscripts](https://github.com/ngntrgduc/userscripts)**  | Some personal userscripts, makes life simpler |
+| **[docs](https://github.com/ngntrgduc/docs)**  | Just my documentation |
 | **[aoc2024](https://github.com/ngntrgduc/aoc2024)**  | My take on Advent of Code 2024 |
 | **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
+| **[instagram-downloader](https://github.com/ngntrgduc/instagram-downloader)**  | Instagram images downloader written in Python |
+| **[userscripts](https://github.com/ngntrgduc/userscripts)**  | Some personal userscripts, makes life simpler |
 | **[cv](https://github.com/ngntrgduc/cv)**  | My CV, written in Latex |
 | **[bookmarklets](https://github.com/ngntrgduc/bookmarklets)**  | Just some bookmarklets I created |
 | **[awesome-math](https://github.com/ngntrgduc/awesome-math)** (*fork*) | A curated list of awesome mathematics resources |
@@ -16,7 +17,6 @@
 | **[ngntrgduc](https://github.com/ngntrgduc/ngntrgduc)**  | whoami |
 | **[math.hcmus-crawler](https://github.com/ngntrgduc/math.hcmus-crawler)**  | Crawl tin tức từ trang web của Khoa Toán - Tin học https://math.hcmus.edu.vn/ mỗi ngày |
 | **[HCMUS-news-crawler](https://github.com/ngntrgduc/HCMUS-news-crawler)**  | Crawl tin tức từ https://hcmus.edu.vn/tin-tuc/ và http://ktdbcl.hcmus.edu.vn mỗi ngày |
-| **[docs](https://github.com/ngntrgduc/docs)**  | Just my documentation |
 | **[learning-python](https://github.com/ngntrgduc/learning-python)**  | Just my repo to learn python with colab |
 | **[pomodoro](https://github.com/ngntrgduc/pomodoro)**  | Aesthetic, Minimalist Pomodoro |
 | **[Minimal-image-search](https://github.com/ngntrgduc/Minimal-image-search)**  | Minimal Firefox extension to search image painlessly |
