@@ -1,12 +1,12 @@
 | **Repository** | **Description** |
 | -------------- | --------------- |
-| **[english-learning-system](https://github.com/ngntrgduc/english-learning-system)**  |  |
+| **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
+| **[english-learning-system](https://github.com/ngntrgduc/english-learning-system)**  | My English learning system |
 | **[aoc2024](https://github.com/ngntrgduc/aoc2024)**  | My take on Advent of Code 2024 |
-| **[instagram-downloader](https://github.com/ngntrgduc/instagram-downloader)**  | Instagram images downloader written in Python |
+| **[instagram-downloader](https://github.com/ngntrgduc/instagram-downloader)**  | Instagram images downloader, built with Python + Selenium |
 | **[github-stats](https://github.com/ngntrgduc/github-stats)**  | My GitHub stats, a fork from https://github.com/jstrieb/github-stats, with some customization |
 | **[docs](https://github.com/ngntrgduc/docs)**  | Just my documentation |
 | **[ngntrgduc](https://github.com/ngntrgduc/ngntrgduc)**  | whoami |
-| **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
 | **[userscripts](https://github.com/ngntrgduc/userscripts)**  | Some personal userscripts, makes life simpler |
 | **[cv](https://github.com/ngntrgduc/cv)**  | My CV, written in Latex |
 | **[bookmarklets](https://github.com/ngntrgduc/bookmarklets)**  | Just some bookmarklets I created |
