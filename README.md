@@ -1,8 +1,9 @@
 | **Repository** | **Description** |
 | -------------- | --------------- |
 | **[get-info-github](https://github.com/ngntrgduc/get-info-github)**  | Crawl repos/starred/gists of user on GitHub |
-| **[awesome-math](https://github.com/ngntrgduc/awesome-math)** (*fork*) | A curated list of awesome mathematics resources |
 | **[ngntrgduc](https://github.com/ngntrgduc/ngntrgduc)**  | whoami |
+| **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
+| **[awesome-math](https://github.com/ngntrgduc/awesome-math)** (*fork*) | A curated list of awesome mathematics resources |
 | **[ngntrgduc.github.io](https://github.com/ngntrgduc/ngntrgduc.github.io)**  | My space, crafted with Hugo |
 | **[my-HCMUS](https://github.com/ngntrgduc/my-HCMUS)**  | Coursework I completed during my studies at HCMUS (2021-2025), with some other stuff. To be updated. |
 | **[seminar](https://github.com/ngntrgduc/seminar)**  | Seminar coursework |
@@ -11,7 +12,6 @@
 | **[pomodoro](https://github.com/ngntrgduc/pomodoro)**  | Aesthetic, Minimalist Pomodoro |
 | **[Dictionary-Look-Up](https://github.com/ngntrgduc/Dictionary-Look-Up)**  | Extension to look up words painlessly |
 | **[learning-python](https://github.com/ngntrgduc/learning-python)**  | Just my repo to learn python with colab |
-| **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
 | **[english-learning-system](https://github.com/ngntrgduc/english-learning-system)**  | My English learning system |
 | **[aoc2024](https://github.com/ngntrgduc/aoc2024)**  | My take on Advent of Code 2024 |
 | **[docs](https://github.com/ngntrgduc/docs)**  | Just my documentation |
