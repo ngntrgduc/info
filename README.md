@@ -1,7 +1,11 @@
 | **Repository** | **Description** |
 | -------------- | --------------- |
-| **[ngntrgduc.github.io](https://github.com/ngntrgduc/ngntrgduc.github.io)**  | My space, crafted with Hugo |
+| **[get-info-github](https://github.com/ngntrgduc/get-info-github)**  | Crawl GitHub user's repositories/stars/gists using GitHub GraphQL API |
 | **[movies-manager](https://github.com/ngntrgduc/movies-manager)**  | Movies manager, built with Streamlit |
+| **[ngntrgduc](https://github.com/ngntrgduc/ngntrgduc)**  | whoami |
+| **[docs](https://github.com/ngntrgduc/docs)**  | Just my documentation |
+| **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
+| **[ngntrgduc.github.io](https://github.com/ngntrgduc/ngntrgduc.github.io)**  | My space, crafted with Hugo |
 | **[pomodoro](https://github.com/ngntrgduc/pomodoro)**  | Aesthetic, Minimalist Pomodoro |
 | **[awesome-math](https://github.com/ngntrgduc/awesome-math)** (*fork*) | A curated list of awesome mathematics resources |
 | **[english-learning-system](https://github.com/ngntrgduc/english-learning-system)**  | My English learning system |
@@ -9,17 +13,13 @@
 | **[HCMUS-GPA-bookmarklet](https://github.com/ngntrgduc/HCMUS-GPA-bookmarklet)**  | Tính GPA trên Portal thông qua bookmarklet |
 | **[github-stats](https://github.com/ngntrgduc/github-stats)**  | My GitHub stats, a fork from https://github.com/jstrieb/github-stats, with some customization |
 | **[cv](https://github.com/ngntrgduc/cv)**  | My CV, written in Latex |
-| **[ngntrgduc](https://github.com/ngntrgduc/ngntrgduc)**  | whoami |
-| **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
 | **[bookmarklets](https://github.com/ngntrgduc/bookmarklets)**  | Just some bookmarklets I created |
-| **[get-info-github](https://github.com/ngntrgduc/get-info-github)**  | Crawl repos/starred/gists of user on GitHub |
 | **[Multiple-links-loader](https://github.com/ngntrgduc/Multiple-links-loader)**  | Extension that open multiple links in a flash ⚡ |
 | **[my-HCMUS](https://github.com/ngntrgduc/my-HCMUS)**  | Coursework I completed during my studies at HCMUS (2021-2025), majoring in Mathematical Methods in Computer Science, with some other stuff. |
 | **[seminar](https://github.com/ngntrgduc/seminar)**  | Seminar coursework |
 | **[instagram-downloader](https://github.com/ngntrgduc/instagram-downloader)**  | Instagram images downloader, built with Python + Selenium |
 | **[learning-python](https://github.com/ngntrgduc/learning-python)**  | Just my repo to learn python with colab |
 | **[aoc2024](https://github.com/ngntrgduc/aoc2024)**  | My take on Advent of Code 2024 |
-| **[docs](https://github.com/ngntrgduc/docs)**  | Just my documentation |
 | **[userscripts](https://github.com/ngntrgduc/userscripts)**  | Some personal userscripts, makes life simpler |
 | **[get-shit-done](https://github.com/ngntrgduc/get-shit-done)**  | No more procrastination |
 | **[ocean-beamer-theme](https://github.com/ngntrgduc/ocean-beamer-theme)**  | Feel the ocean 🌊. Simple, minimalistic and customizable beamer theme. |
