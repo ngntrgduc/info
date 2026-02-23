@@ -1,22 +1,22 @@
 | **Repository** | **Description** |
 | -------------- | --------------- |
-| **[movie-manager](https://github.com/ngntrgduc/movie-manager)**  | A movie manager web app, with CLI support |
-| **[docs](https://github.com/ngntrgduc/docs)**  | Just my documentation |
+| **[github-stats](https://github.com/ngntrgduc/github-stats)**  | My GitHub stats, a fork from https://github.com/jstrieb/github-stats, with some customization |
 | **[ngntrgduc.github.io](https://github.com/ngntrgduc/ngntrgduc.github.io)**  | My space, crafted with Hugo |
-| **[awesome-math](https://github.com/ngntrgduc/awesome-math)** (*fork*) | A curated list of awesome mathematics resources |
-| **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
-| **[bookmarklet-maker](https://github.com/ngntrgduc/bookmarklet-maker)** (*fork*) | Tool to create bookmarklet | A fork for personal use. Cleaner, with some tweaks. |
-| **[cv](https://github.com/ngntrgduc/cv)**  | My CV, written in Latex |
-| **[get-info-github](https://github.com/ngntrgduc/get-info-github)**  | Crawl GitHub user's repositories/stars/gists using GitHub GraphQL API |
+| **[movie-manager](https://github.com/ngntrgduc/movie-manager)**  | A movie manager web app, with CLI support |
 | **[ngntrgduc](https://github.com/ngntrgduc/ngntrgduc)**  | whoami |
+| **[Dictionary-Look-Up](https://github.com/ngntrgduc/Dictionary-Look-Up)**  | Extension to look up words painlessly |
+| **[Multiple-links-loader](https://github.com/ngntrgduc/Multiple-links-loader)**  | Extension that open multiple links in a flash ⚡ |
+| **[cv](https://github.com/ngntrgduc/cv)**  | My CV, written in Latex |
+| **[my-HCMUS](https://github.com/ngntrgduc/my-HCMUS)**  | Coursework I completed during my studies at HCMUS (2021-2025), majoring in Mathematical Methods in Computer Science, with some other stuff. |
+| **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
+| **[docs](https://github.com/ngntrgduc/docs)**  | Just my documentation |
+| **[awesome-math](https://github.com/ngntrgduc/awesome-math)** (*fork*) | A curated list of awesome mathematics resources |
+| **[bookmarklet-maker](https://github.com/ngntrgduc/bookmarklet-maker)** (*fork*) | Tool to create bookmarklet | A fork for personal use. Cleaner, with some tweaks. |
+| **[get-info-github](https://github.com/ngntrgduc/get-info-github)**  | Crawl GitHub user's repositories/stars/gists using GitHub GraphQL API |
 | **[pomodoro](https://github.com/ngntrgduc/pomodoro)**  | Aesthetic, Minimalist Pomodoro |
 | **[english-learning-system](https://github.com/ngntrgduc/english-learning-system)**  | My English learning system |
-| **[Dictionary-Look-Up](https://github.com/ngntrgduc/Dictionary-Look-Up)**  | Extension to look up words painlessly |
 | **[HCMUS-GPA-bookmarklet](https://github.com/ngntrgduc/HCMUS-GPA-bookmarklet)**  | Tính GPA trên Portal thông qua bookmarklet |
-| **[github-stats](https://github.com/ngntrgduc/github-stats)**  | My GitHub stats, a fork from https://github.com/jstrieb/github-stats, with some customization |
 | **[bookmarklets](https://github.com/ngntrgduc/bookmarklets)**  | Just some bookmarklets I created |
-| **[Multiple-links-loader](https://github.com/ngntrgduc/Multiple-links-loader)**  | Extension that open multiple links in a flash ⚡ |
-| **[my-HCMUS](https://github.com/ngntrgduc/my-HCMUS)**  | Coursework I completed during my studies at HCMUS (2021-2025), majoring in Mathematical Methods in Computer Science, with some other stuff. |
 | **[seminar](https://github.com/ngntrgduc/seminar)**  | Seminar coursework: Handling Missing Data |
 | **[instagram-downloader](https://github.com/ngntrgduc/instagram-downloader)**  | Instagram images downloader, built with Python + Selenium |
 | **[learning-python](https://github.com/ngntrgduc/learning-python)**  | Just my repo to learn python with colab |
