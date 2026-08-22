@@ -1,16 +1,17 @@
 | **Repository** | **Description** |
 | -------------- | --------------- |
+| **[Minimal-image-search](https://github.com/ngntrgduc/Minimal-image-search)**  | Minimal Firefox extension to search image painlessly |
 | **[github-stats](https://github.com/ngntrgduc/github-stats)**  | My GitHub stats, a fork from https://github.com/jstrieb/github-stats, with some customization |
 | **[movie-manager](https://github.com/ngntrgduc/movie-manager)**  | A movie manager web app, with CLI support |
-| **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
 | **[ngntrgduc.github.io](https://github.com/ngntrgduc/ngntrgduc.github.io)**  | My space, crafted with Hugo |
+| **[awesome-math](https://github.com/ngntrgduc/awesome-math)** (*fork*) | A curated list of awesome mathematics resources |
+| **[info](https://github.com/ngntrgduc/info)**  | All my repos/starred/gists, crawled using https://github.com/ngntrgduc/get-info-github |
 | **[ngntrgduc](https://github.com/ngntrgduc/ngntrgduc)**  | whoami |
 | **[Dictionary-Look-Up](https://github.com/ngntrgduc/Dictionary-Look-Up)**  | Extension to look up words painlessly |
 | **[Multiple-links-loader](https://github.com/ngntrgduc/Multiple-links-loader)**  | Extension that open multiple links in a flash ⚡ |
 | **[cv](https://github.com/ngntrgduc/cv)**  | My CV, written in Latex |
-| **[my-HCMUS](https://github.com/ngntrgduc/my-HCMUS)**  | Coursework I completed during my studies at HCMUS (2021-2025), majoring in Mathematical Methods in Computer Science, with some other stuff. |
+| **[my-HCMUS](https://github.com/ngntrgduc/my-HCMUS)**  | Coursework I completed during my studies at HCMUS (2021-2025), majoring in Mathematics and Computer Science, with some other stuff. |
 | **[docs](https://github.com/ngntrgduc/docs)**  | Just my documentation |
-| **[awesome-math](https://github.com/ngntrgduc/awesome-math)** (*fork*) | A curated list of awesome mathematics resources |
 | **[bookmarklet-maker](https://github.com/ngntrgduc/bookmarklet-maker)** (*fork*) | Tool to create bookmarklet | A fork for personal use. Cleaner, with some tweaks. |
 | **[get-info-github](https://github.com/ngntrgduc/get-info-github)**  | Crawl GitHub user's repositories/stars/gists using GitHub GraphQL API |
 | **[pomodoro](https://github.com/ngntrgduc/pomodoro)**  | Aesthetic, Minimalist Pomodoro |
@@ -26,7 +27,6 @@
 | **[ocean-beamer-theme](https://github.com/ngntrgduc/ocean-beamer-theme)**  | Feel the ocean 🌊. Simple, minimalistic and customizable beamer theme. |
 | **[math.hcmus-crawler](https://github.com/ngntrgduc/math.hcmus-crawler)**  | Crawl tin tức từ trang web của Khoa Toán - Tin học https://math.hcmus.edu.vn/ mỗi ngày |
 | **[HCMUS-news-crawler](https://github.com/ngntrgduc/HCMUS-news-crawler)**  | Crawl tin tức từ https://hcmus.edu.vn/tin-tuc/ và http://ktdbcl.hcmus.edu.vn mỗi ngày |
-| **[Minimal-image-search](https://github.com/ngntrgduc/Minimal-image-search)**  | Minimal Firefox extension to search image painlessly |
 | **[python-mini-projects](https://github.com/ngntrgduc/python-mini-projects)**  | Some mini projects/stuff written in Python |
 | **[Fundamental-ML](https://github.com/ngntrgduc/Fundamental-ML)** (*fork*) | 🧱 Mini-Project for Fundamentals of Machine Learning Course HCMUS-VNU 2024 |
 | **[thong-bao-cup-nuoc-Thu-Duc](https://github.com/ngntrgduc/thong-bao-cup-nuoc-Thu-Duc)**  | Crawl thông báo cúp nước từ https://www.capnuocthuduc.vn/tin-tuc/thong-bao-cup-nuoc/, phòng khi mọi người không biết tới sự tồn tại của cái trang này 🙂 |
